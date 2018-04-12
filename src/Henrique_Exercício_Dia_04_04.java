@@ -21,7 +21,7 @@ public class Henrique_Exercício_Dia_04_04 {
             prod.setEstoque(444);
             prod.setEstoque2(443);
             prod.setEstoque3(443);
-            prod.setFabricante("Nestlé");
+            prod.setFabricante("Lacta");
             prod.setFabricante2("Coca-Cola Brasil");
             prod.setFabricante3("Coca-Cola Brasil");
             if (prod.getEstoque() > prod.getEstoque2() && prod.getEstoque() > prod.getEstoque3()) {
